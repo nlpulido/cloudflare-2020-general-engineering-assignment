@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "nlpulido <npulido@dons.usfca.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "@types/simple-icons": "^2.5.0",
+    "simple-icons": "^3.11.0"
+  }
+}

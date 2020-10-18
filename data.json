@@ -1,0 +1,10 @@
+{
+    "name":"Neil Pulido",
+    "avatar":"https://i.imgur.com/Z0eIt8Z.jpg",
+    "links":[
+        {"name":"LinkedIn", "url":"https://www.linkedin.com/in/nlpulido/"},
+        {"name":"Github", "url":"https://github.com/nlpulido"},
+        {"name":"Instagram", "url":"https://www.instagram.com/neilisnext"}
+    ],
+    "background-color":"bg-gray-500"
+}
